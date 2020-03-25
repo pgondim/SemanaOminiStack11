@@ -21,3 +21,8 @@
 - Query Builder: utilizamos sintaxe do JS: 
                  tabele('users').select(*).where(...)
 */
+
+/* Banco de Dados 
+- Tanto dentro do JSON quanto o nome da variavel devem ser o mesmo que esta escrito na criação da tabela
+
+*/
